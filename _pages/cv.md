@@ -11,19 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics, University of Maryland, Baltimore County
+* B.A. in Geography and Environmental Systems, University of Maryland, Baltimore County
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Sponsored Projects Accountant Intern
+  * Johns Hopkins University
+  * Duties included: Invoicing for Johns Hopkins departments and sponsored projects. Facilitating the creation and organization of new sponsor requests for the\nSponsored Projects and Shared Services department.
 
-* Fall 2015: Research Assistant
-  * Github University
+* Spring 2021: Unergraduate Researcher
+  * University of Maryland, Baltimore County
+  * Geography and Environmnental Systems Department
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   

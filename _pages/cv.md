@@ -16,15 +16,12 @@ Education
 
 Work experience
 ======
-* Summer 2022: Sponsored Projects Accountant Intern
-  * Johns Hopkins University
-  * Duties included: Invoicing for Johns Hopkins departments and sponsored projects. Facilitating the creation and organization of new sponsor requests for the\nSponsored Projects and Shared Services department.
+* Sponsored Projects Accountant Intern | Johns Hopkins University | May 2022-Present
+  * Duties included: Invoicing for Johns Hopkins departments and sponsored projects. Facilitating the creation and organization of new sponsor requests for the Sponsored Projects and Shared Services department.
 
-* Spring 2021: Unergraduate Researcher
-  * University of Maryland, Baltimore County
-  * Geography and Environmnental Systems Department
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Undergraduate Researcher | University of Maryland, Baltimore County | May 2021-April 2022
+  * Research done with Dr. Dillon Mahmoudi and Prof. Emily Billo for the Geography and Environmnental Systems Department at UMBC
+  * Conducted archival research on historical industrial, economic, and social development of the Port of Baltimore through a abolition ecology lens. Analyzed the geospatial, social, and environmental trends that perpetuated systemic violence and racialized space.
   
 Skills
 ======
@@ -38,18 +35,6 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.jfif"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Vendela Lundgren"
+  avatar           : 
+  bio              : "Undergraduate student at UMBC"
   location         : "Baltimore, MD"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "vendelaelundgren@gmail.com
+  email            : "vendelaelundgren@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/vendela-lundgren/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

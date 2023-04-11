@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Morans I Analysis of Baltimore City, Maryland"
+excerpt: "Layout of Morans I maps generated on R Studio that analyze the spaital adjacency of the median house hold income, percent white, and total vacancy in Baltimore City, Maryland. <br/><img src='/images/moransIGES486.png'>"
 collection: portfolio
 ---
 

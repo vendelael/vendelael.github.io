@@ -2,11 +2,6 @@
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 My name is Vendela Lundgren, and I am an undergraduate student at the University of Maryland, Baltimore County. I am pursuing two B.A.'s in Economics and Geography and Environmental Systems, and I am set to graduate in the Fall of 2023. In the following years, I hope to pursue graduate school abroad to further my studies and broaden my horizons.
 

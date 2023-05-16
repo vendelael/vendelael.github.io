@@ -16,8 +16,12 @@ Education
 
 Work experience
 ======
+* Research Associate @ William Blair
+  *  June 2023 - Present
+  *  ESG and portfolio valuation research
+
 * Sponsored Projects Accountant Intern @ Johns Hopkins University
-  * May 2022-Present
+  * May 2022-May 2023
   * Duties included: Invoicing for Johns Hopkins departments and sponsored projects. Facilitating the creation and organization of new sponsor requests for the Sponsored Projects and Shared Services department.
 
 * Sustainability Intern @ Body Art Alliance

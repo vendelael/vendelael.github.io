@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 Research Associate @ William Blair
-  *  June 2023 - Present
+  *  June - August 2023
   *  Assisted in enhancing ESG implementation within the SMID Cap. Value portfolio by applying industry-wide performance metrics, data-driven analysis, and existing technologies to assess environmental impact.
   *  Conducted in-depth research and analysis on greenhouse gas (GHG) emissions and energy metrics across portfolio holdings to establish an environmental baseline, informing compliance and sustainability strategies through weekly presentations and detailed technical writing.
   *  Demonstrated proficiency in data collection, analysis, and comprehensive stock valuation, while conducting research on environmental regulations and ESG reporting requirements to interpret technical reports and apply statistical methods for further insight.
